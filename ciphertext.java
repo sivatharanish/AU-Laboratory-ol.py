@@ -45,4 +45,4 @@ String message = sc.nextLine();
 System.out.println("Encrypted message: Cipher Text=" + encrypt(message, 3));
 System.out.println("Decrypted message: Plain Text=" + decrypt(encrypt(message, 3), 3));
 sc.close();
-}
+}}
